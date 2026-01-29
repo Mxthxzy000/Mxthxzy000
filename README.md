@@ -44,9 +44,9 @@
 ##
 
 <div> 
-      <img width="500" height="250"
+      <img width="400" height="200"
            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mxthxzy000&theme=omni"/>
-      <img width="500" height="250"
+      <img width="400" height="200"
            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=omni"/>
 </div>
 
