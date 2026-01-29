@@ -43,7 +43,7 @@
 
 ##
 
-<div> 
+<div align="center"> 
       <img width="400" height="200"
            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mxthxzy000&theme=omni"/>
       <img width="400" height="200"
