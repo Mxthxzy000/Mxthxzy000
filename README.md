@@ -5,31 +5,33 @@
 </p>
 
 <p align="left">
-  💻 <strong>Linguagens:</strong><br>
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="45" />
+  <strong>Linguagens:</strong>
+  <br><br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" />
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong><br>
+  <strong>Ferramentas:</strong>
+  <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftteams/microsoftteams-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
+##
 
 <p align="left">
-  💌 Fique à vontade para entrar em contato comigo, seja para conversas sobre tecnologia, projetos ou oportunidades de aprendizado: ⤵️
+  Fique à vontade para entrar em contato comigo, seja para conversas sobre tecnologia, projetos ou oportunidades de aprendizado: ⤵️
 </p>
 
 <div> 
@@ -39,8 +41,6 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br>
 
 ##
 
