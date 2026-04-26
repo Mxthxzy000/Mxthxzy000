@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá, eu me chamo <strong>Matheus</strong>.<br>
-  Estou cursando Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI, atuo como desenvolvedor full stack e possuo experiência com sistemas de automação utilizando sensores e Arduino.<br><br>
-  
-  Atualmente, participo da equipe de robótica Taiada Nexus, competindo na OBR (Seguidor de Linha – Nível 2), onde aplico metodologias ágeis como Scrum e desenvolvo habilidades de trabalho em equipe.<br><br>
-  
+<p align="left">
+  Olá, me chamo <strong>Matheus</strong>.<br>
+  Atualmente curso Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e atuo como desenvolvedor full stack, com experiência em sistemas de automação utilizando sensores e Arduino.<br><br>
+
+  Integro a equipe de robótica Taiada Nexus, competindo na OBR (Seguidor de Linha – Nível 2), onde aplico metodologias ágeis como Scrum e desenvolvo habilidades de trabalho em equipe.<br><br>
+
   Também sou competidor do São Paulo Skills na modalidade Desenvolvimento de Aplicativos Móveis, aprofundando meus conhecimentos em desenvolvimento mobile e boas práticas de software.
 </p>
 
