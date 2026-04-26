@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, eu sou o <strong>Matheus</strong>.<br> Estou cursando técnico de análise e desenvolvimento de sistemas pelo senai, com foco em desenvolvimento web(fullstack) e em sistemas de automação com sensores e arduino.<br> Atualmente também participo da equipe de robótica Taiada Nexus, na modalidade da OBR seguidor de linha nível 2, onde constantemente pratico o uso de tecnologias ágeis como a SCRUM e o trabalho em equipe! </p>
+  Olá, eu sou o <strong>Matheus</strong>.<br> Estou cursando técnico de análise e desenvolvimento de sistemas pelo senai, sou desenvolvedor fullstack e tenho experiência com sistemas de automação com sensores e arduino.<br> Atualmente também participo da equipe de robótica Taiada Nexus, na modalidade da OBR seguidor de linha nível 2, constantemente praticando o uso de tecnologias ágeis como a SCRUM e o trabalho em equipe! </p>
 </p>
 
 <p align="left">
